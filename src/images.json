@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Hodor",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/49-hodor-1498665318549_640w.jpg",
+        "chosen": false
+    },
+    {
+        "id": 2,
+        "name": "Khal Drogo",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/48-khal-drogo-1498665318549_1024w.jpg",
+        "chosen": false
+    },
+    {
+        "id": 3,
+        "name": "Night King",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/32-the-nights-king-1498665318532_1024w.jpg",
+        "chosen": false
+    },
+    {
+        "id": 4,
+        "name": "Samwell",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/30-samwell-tarly-1498665318530_1024w.jpg",
+        "chosen": false
+    },
+    {
+        "id": 5,
+        "name": "Bronn",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/21-bronn-1498665318521_640w.jpg",
+        "chosen": false
+    },
+    {
+        "id": 6,
+        "name": "The Hound",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/17-thehound-1498665318518_640w.jpg",
+        "chosen": false
+    },
+    {
+        "id": 7,
+        "name": "Brienne",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/13-brienne-of-tarth-1498665318514_1024w.jpg",
+        "chosen": false
+    },
+    {
+        "id": 8,
+        "name": "Arya",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/5-arya-stark-1498665318505_640w.jpg",
+        "chosen": false
+    },
+    {
+        "id": 9,
+        "name": "Tyrion",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/1-tyrion-lannister-1498665318499_1024w.jpg",
+        "chosen": false
+    },
+    {
+        "id": 10,
+        "name": "Daenerys",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/2-daenerys-targaryen-1498665318502_640w.jpg",
+        "chosen": false
+    },
+    {
+        "id": 11,
+        "name": "Jon Snow",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/3-jon-snow-1498665318503_1024w.jpg",
+        "chosen": false
+    },
+    {
+        "id": 12,
+        "name": "Cersei",
+        "picture": "https://assets1.ignimgs.com/2017/06/28/4-cersei-lannister-1498665318504_640w.jpg",
+        "chosen": false
+    }
+]
